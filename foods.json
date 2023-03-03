@@ -1,0 +1,171 @@
+{
+    "products":  [
+        {
+            "id": 1,
+            "name": "Fresh Lime",
+            "image": "https://foodtucks.web.app/static/media/fresh-lime.9c7a16bd59f022dd77f5.png",
+            "price": 38,
+            "mainPrice": 45,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "vegetables",
+            "ratings": 2
+        
+        },
+        {
+            "id": 2,
+            "name": "Chocolate Muffin",
+            "image": "https://foodtucks.web.app/static/media/muffin.6a57862b31a6166af198.png",
+            "price": 28,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "vegetables",
+            "ratings": 1
+        },
+        {
+            "id": 3,
+            "name": "Burger",
+            "image": "https://foodtucks.web.app/static/media/burger.144e7cc0b99f0665f6c1.png",
+            "price": 21,
+            "mainPrice": 45,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 3
+        },
+        {
+            "id": 4,
+            "name": "Country Burger",
+            "image": "https://foodtucks.web.app/static/media/burger2.6d865c19d7b0a927b471.png",
+            "price": 45,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 3
+        },
+        {
+            "id": 5,
+            "name": "Drink",
+            "image": "https://foodtucks.web.app/static/media/drinks.2e61b4828504438bb4d6.png",
+            "price": 23,
+            "mainPrice": 45,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "drink",
+            "ratings": 5
+        },
+        {
+            "id": 6,
+            "name": "Pizza",
+            "image": "https://foodtucks.web.app/static/media/pizza.5275a7253dc19cc28248.png",
+            "price": 43,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 5
+        },
+        {
+            "id": 7,
+            "name": "Cheese Butter",
+            "image": "https://foodtucks.web.app/static/media/cheesebutter.c794c9b7f6db3cc3adf6.png",
+            "price": 10,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 4
+        },
+        {
+            "id": 8,
+            "name": "Sandwiches",
+            "image": "https://foodtucks.web.app/static/media/sandwich.a427aeebdffe61b08f1e.png",
+            "price": 25,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "food",
+            "ratings": 3
+        },
+        {
+            "id": 9,
+            "name": "Chicken Chup",
+            "image": "https://foodtucks.web.app/static/media/chup.b51b8f38eb18ccdb876d.png",
+            "price": 12,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "food",
+            "ratings": 2
+        },
+        {
+            "id": 10,
+            "name": "Spaghetti",
+            "image": "https://foodtucks.web.app/static/media/spaghetti.8c08df5cc93b1b97d068.jpg",
+            "price": 25,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "pasta",
+            "ratings": 4
+        },
+        {
+            "id": 11,
+            "name": "Pounded Yam",
+            "image": "https://foodtucks.web.app/static/media/egusi.d3b8932b10e25d188dc8.jpg",
+            "price": 30,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "local",
+            "ratings": 3
+        },
+        {
+            "id": 12,
+            "name": "Chips",
+            "image": "https://foodtucks.web.app/static/media/home-food.c2e1fb46f24f66c9b2bc.png",
+            "price": 10,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 5
+        },
+        {
+            "id": 13,
+            "name": "Cake",
+            "image": "data:image/jpeg;base64,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",
+            "price": 6,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 4
+        },
+        {
+            "id": 14,
+            "name": "Beans",
+            "image": "https://foodtucks.web.app/static/media/beans-plantain.f500f2923c37139cd2f6.jpg",
+            "price": 8,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "food",
+            "ratings": 5
+        },
+        {
+            "id": 15,
+            "name": "Burger",
+            "image": "https://foodtucks.web.app/static/media/cat1.491f1bf1c8ee26132bb1.png",
+            "price": 28,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "appetizer",
+            "ratings": 5
+        },
+      
+        {
+            "id": 17,
+            "name": "Doughnut",
+            "image": "https://foodtucks.web.app/static/media/cat4.2091321b2c8736eb1162.png",
+            "price": 15,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "pasta",
+            "ratings": 5
+        },
+        {
+            "id": 18,
+            "name": "Coffee",
+            "image": "https://foodtucks.web.app/static/media/coffee3.23c950933f34d32567ae.png",
+            "price": 12,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "drink",
+            "ratings": 5
+        },
+        {
+            "id": 19,
+            "name": "Italino Coffee",
+            "image": "https://foodtucks.web.app/static/media/coffee4.76f6ee153ffc01776fab.png",
+            "price": 18,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam pellentesque bibendum non dui volutpat fringilla bibendum. Urna, urna, vitae feugiat pretium donec id elementum. Ultrices mattis sed vitae mus risus. Lacus nisi, et ac dapibus sit eu velit in consequat.",
+            "category": "drink",
+            "ratings": 5
+        }
+    ]
+}

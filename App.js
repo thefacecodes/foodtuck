@@ -1,20 +1,18 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar } from "expo-status-bar";
+import { useState } from "react";
+import { Text, View } from "react-native";
+import PreLoader from "./components/PreLoader";
+import StackScreens from "./components/StackScreens";
+import StoreContext from "./components/StoreContext";
+import ShopList from "./screens/ShopList";
 
 export default function App() {
+  const [loader, setLoader] = useState(true);
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <StoreContext>
+      <StatusBar hidden={true} />
+      {loader ? <PreLoader setLoader={setLoader} /> : <StackScreens />}
+    </StoreContext>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
